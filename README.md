@@ -1,1 +1,1 @@
-# Gerador-de-curr-culo
+# Gerador-de-curriculo
